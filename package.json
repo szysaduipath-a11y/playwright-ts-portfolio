@@ -1,0 +1,21 @@
+{
+  "name": "playwright-ts-portfolio",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript E2E & API test automation portfolio.\r WOOHOO new branch!!!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szysaduipath-a11y/playwright-ts-portfolio.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/szysaduipath-a11y/playwright-ts-portfolio/issues"
+  },
+  "homepage": "https://github.com/szysaduipath-a11y/playwright-ts-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.11"
+  }
+}
